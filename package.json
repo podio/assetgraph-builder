@@ -42,7 +42,7 @@
     "assetgraph": "1.15.4",
     "async": "0.9.0",
     "chalk": "1.0.0",
-    "express-processimage": "git://github.com/podio/express-processimage.git#5819fb5ac4acff042e7c365ddf915e069545a66b",
+    "express-processimage": "https://github.com/podio/express-processimage/archive/v2.1.1-podio.tar.gz",
     "extend": "1.2.1",
     "jpegtran": "0.1.0",
     "lodash": "2.4.1",
