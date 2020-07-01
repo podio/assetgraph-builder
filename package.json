@@ -56,7 +56,7 @@
     "pngquant": "https://github.com/podio/node-pngquant/archive/v0.4.1-podio.tar.gz",
     "semver": "4.3.1",
     "seq": "0.3.5",
-    "temp": "0.8.1",
+    "temp": "0.9.1",
     "urltools": "0.2.0"
   },
   "optionalDependencies": {
