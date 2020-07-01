@@ -41,7 +41,7 @@
   "dependencies": {
     "assetgraph": "1.15.4",
     "async": "0.9.0",
-    "chalk": "1.0.0",
+    "chalk": "1.1.3",
     "express-processimage": "https://github.com/podio/express-processimage/archive/v2.1.1-podio.tar.gz",
     "extend": "1.2.1",
     "jpegtran": "0.1.0",
